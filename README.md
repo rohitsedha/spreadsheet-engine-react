@@ -137,4 +137,5 @@ Tab    → Commit value and move right
 Arrow keys → Navigate between cells
 ```
 
-
+## Live Demo
+Deployed on Vercel: [https://spreadsheet-engine-react.vercel.app](https://spreadsheet-engine-react.vercel.app/)
